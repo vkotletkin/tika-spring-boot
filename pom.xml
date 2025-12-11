@@ -69,7 +69,7 @@
 
 		<dependency>
 			<groupId>org.apache.tika</groupId>
-			<artifactId>tika-langdetect-lingo24</artifactId>
+			<artifactId>tika-langdetect-opennlp</artifactId>
 			<version>3.2.3</version>
 		</dependency>
 
